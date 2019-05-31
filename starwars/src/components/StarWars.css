@@ -1,0 +1,16 @@
+.main-container h1 {
+  color: orange;
+  border: solid red;
+}
+
+.attribute {
+  padding-bottom: 60px;
+}
+
+.main-container h4 {
+  color: white;
+}
+
+.main-container span {
+  color: orange;
+}
